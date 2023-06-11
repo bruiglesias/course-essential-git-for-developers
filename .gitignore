@@ -1,0 +1,5 @@
+*.sqlite3
+**__pycache__
+**arquivos
+*.mp4
+*.mp3
